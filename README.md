@@ -2,7 +2,7 @@
 
 I'm an MSEE student and a software engineer. I made this account to share some of the electronics
 projects I'm working on. Most of these projects are a result of "I want to learn X, Y, and Z, so
-I think I'll make something that needs X, Y, and Z." Hopefully other people will find them
+I'm going to make something random that needs X, Y, and Z." Hopefully other people will find these
 helpful&emdash;though fair warning: much of what I've learned, especially when it comes to printed
 circuit board design, is from trial and error. So, I can't guarantee anything here is idiomatic,
 safe, or, you know, *good*.
